@@ -1,0 +1,122 @@
+/* Monaspace Radon Font Family */
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-Regular.woff2') format('woff2'),
+         url('MonaspaceRadon-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-Italic.woff2') format('woff2'),
+         url('MonaspaceRadon-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-Light.woff2') format('woff2'),
+         url('MonaspaceRadon-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-LightItalic.woff2') format('woff2'),
+         url('MonaspaceRadon-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-ExtraLight.woff2') format('woff2'),
+         url('MonaspaceRadon-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-ExtraLightItalic.woff2') format('woff2'),
+         url('MonaspaceRadon-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-Medium.woff2') format('woff2'),
+         url('MonaspaceRadon-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-MediumItalic.woff2') format('woff2'),
+         url('MonaspaceRadon-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-SemiBold.woff2') format('woff2'),
+         url('MonaspaceRadon-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-SemiBoldItalic.woff2') format('woff2'),
+         url('MonaspaceRadon-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-Bold.woff2') format('woff2'),
+         url('MonaspaceRadon-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-BoldItalic.woff2') format('woff2'),
+         url('MonaspaceRadon-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-ExtraBold.woff2') format('woff2'),
+         url('MonaspaceRadon-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Radon';
+    src: url('MonaspaceRadon-ExtraBoldItalic.woff2') format('woff2'),
+         url('MonaspaceRadon-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+/* Variable Font */
+@font-face {
+    font-family: 'Monaspace Radon Variable';
+    src: url('MonaspaceRadonVarVF[wght,wdth,slnt].woff2') format('woff2-variations'),
+         url('MonaspaceRadonVarVF[wght,wdth,slnt].woff') format('woff-variations');
+    font-weight: 200 800;
+    font-stretch: 75% 125%;
+    font-style: -10 0;
+}

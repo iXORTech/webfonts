@@ -1,0 +1,122 @@
+/* Monaspace Argon Font Family */
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-Regular.woff2') format('woff2'),
+         url('MonaspaceArgon-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-Italic.woff2') format('woff2'),
+         url('MonaspaceArgon-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-Light.woff2') format('woff2'),
+         url('MonaspaceArgon-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-LightItalic.woff2') format('woff2'),
+         url('MonaspaceArgon-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-ExtraLight.woff2') format('woff2'),
+         url('MonaspaceArgon-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-ExtraLightItalic.woff2') format('woff2'),
+         url('MonaspaceArgon-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-Medium.woff2') format('woff2'),
+         url('MonaspaceArgon-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-MediumItalic.woff2') format('woff2'),
+         url('MonaspaceArgon-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-SemiBold.woff2') format('woff2'),
+         url('MonaspaceArgon-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-SemiBoldItalic.woff2') format('woff2'),
+         url('MonaspaceArgon-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-Bold.woff2') format('woff2'),
+         url('MonaspaceArgon-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-BoldItalic.woff2') format('woff2'),
+         url('MonaspaceArgon-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-ExtraBold.woff2') format('woff2'),
+         url('MonaspaceArgon-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace Argon';
+    src: url('MonaspaceArgon-ExtraBoldItalic.woff2') format('woff2'),
+         url('MonaspaceArgon-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+/* Variable Font */
+@font-face {
+    font-family: 'Monaspace Argon Variable';
+    src: url('MonaspaceArgonVarVF[wght,wdth,slnt].woff2') format('woff2-variations'),
+         url('MonaspaceArgonVarVF[wght,wdth,slnt].woff') format('woff-variations');
+    font-weight: 200 800;
+    font-stretch: 75% 125%;
+    font-style: -10 0;
+}
